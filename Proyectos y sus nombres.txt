@@ -1,0 +1,21 @@
+Curso 1
+Proyecto BasicsCodelab 				= Codelab 1 "Escribir primera App en compose"
+Proyecto BasicLayoutsCodelab (MySoothe) 	= Codelab 2 "Implementar un diseño real"
+Proyecto BasicStateCodelab 			= Codelab 3 "Como comenzar a usar el estado"
+Proyecto Migration Codelab			= Codelab 4 "Migración práctica"
+
+Curso 2
+Proyecto Teming Codelab				= Codelab 5 "Cómo aplicar un tema en tu app con Material Design 3"
+Proyecto Animation Codelab			= Codelab 6 "Como animar elementos"
+
+Curso 3						
+Proyecto AdvancedStateAndSideEffectsCodelab	= Codelab 7 "Efectos secundarios y estados avanzados"
+Proyecto NavigationCodelab			= Codelab 8 "Navegación"
+
+Curso 4
+Proyecto TestingCodelab				= Codelab 9 "Pruebas"
+Proyecto AccesibilityCodelab			= Codelab 10 "Accesibilidad"
+
+Curso 5
+Proyecto AdaptativeCodelab			= Codelab 11 "Compila apps adaptables"
+Proyecto codelab-compose-for-wear-os-main	= Codelab 12 "Wear OS con Compose"
